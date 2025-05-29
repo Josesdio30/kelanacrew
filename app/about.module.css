@@ -1,0 +1,11 @@
+.text {
+    text-align: center;
+    display: flex;
+    gap : 500px;
+}
+
+.meaning {
+    font-size: 20px;
+    font-weight: bold;
+
+}
